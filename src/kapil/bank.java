@@ -8,7 +8,7 @@ static String ifsc="SBI12120";
 public void setAcc(long accno)
 {
 	this.accno=accno;
-	
+	//hii im kapil moin
 }
 public long getAcc()
 {
